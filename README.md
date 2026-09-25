@@ -3,7 +3,7 @@
 A-to-I RNA editing of snaR-A in public RNA-seq data, for the Xie lab
 (Mingyi Xie, PI; Wenyan Han). BCB-SR bioinformatics support, Heather Kates.
 
-**Status: paused since January 2026.** Wenyan and Ming decided on 2026-01-06
+**Status: paused since January 2026.** Wenyan and Mingyi decided on 2026-01-06
 to pause the analysis until wet-lab data from the relevant human tissues are
 available, because suitable public datasets are too limited. This repo records
 what was run so the work can be restarted.
