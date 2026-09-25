@@ -105,7 +105,9 @@ use total RNA without size selection.
 - A dataset needs total (rRNA-depleted, not polyA) RNA-seq with enough reads
   at snaR-A loci — check this with `05-check-snaR-A-cvg.bash` before running
   the editing analysis.
-- `bash/05-get-ucsc-anno.bash` regenerates the UCSC annotation, including the
-  dbSNP 150 common SNP BED that is excluded from git for size.
+- `AnnotationAndRegions/snp150Common_AG_TC.bed.gz` (dbSNP 150 common A/G and
+  T/C SNPs, 55 MB) is excluded from git for size and remains on `/blue`.
+  `bash/05-get-ucsc-anno.bash` downloads the current UCSC common SNP table
+  (dbSNP 151) if it needs rebuilding.
 - The original plan used BASAL (`docs/project-notes.md`); that remains an
   option if per-site editing rates are needed rather than a regional index.
