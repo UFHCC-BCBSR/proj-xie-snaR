@@ -1,0 +1,19 @@
+# Raw and intermediate data stay on /orange and /blue, never in git
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.sra
+*.bam
+*.bai
+*.cmpileup
+*.sif
+*.jsd
+logs/
+tmp/
+tmp_paired/
+.ipynb_checkpoints/
+jupyter_notebook_*.log
+
+# Large UCSC-derived annotation; regenerate with bash/05-get-ucsc-anno.bash
+snp150Common*.bed.gz
+snp150Common.txt.gz

@@ -1,0 +1,5 @@
+SRR,GSM,characteristics,differential stage,knockdown,molecule_ch1
+SRR1203776,GSM1356708,mRNA from WT Day 0,day 0,wild type,polyA RNA
+SRR1203782,GSM1356714,mRNA from ADAR1 KD Day 0,day 0,ADAR1 shRNA,polyA RNA
+SRR1203788,GSM1356720,sRNA from WT Day 0,day 0,wild type,total RNA
+SRR1203794,GSM1356726,sRNA from ADAR1 KD Day 0,day 0,ADAR1 shRNA,total RNA

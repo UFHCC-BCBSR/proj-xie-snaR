@@ -1,0 +1,16 @@
+2026-01-06 12:01:26,856 - INFO - Paired-end processing started.
+2026-01-06 12:01:26,856 - INFO - /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired already exists. Removing the existing directory.
+2026-01-06 12:01:26,865 - INFO - Temporary directories created.
+2026-01-06 12:01:26,865 - INFO - Splitting BAM files into R1 and R2...
+2026-01-06 12:01:26,865 - INFO - Splitting /orange/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/GSE155964/bams/SRR12419622_Aligned.sortedByCoord.out.bam into:
+2026-01-06 12:01:26,865 - INFO -   Read1 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r1/SRR12419622_Aligned.sortedByCoord.out_R1_sorted.bam
+2026-01-06 12:01:26,865 - INFO -   Read2 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r2/SRR12419622_Aligned.sortedByCoord.out_R2_sorted.bam
+2026-01-06 12:48:37,717 - INFO - Splitting completed.
+2026-01-06 12:48:37,836 - INFO - Splitting /orange/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/GSE155964/bams/SRR12419623_Aligned.sortedByCoord.out.bam into:
+2026-01-06 12:48:37,836 - INFO -   Read1 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r1/SRR12419623_Aligned.sortedByCoord.out_R1_sorted.bam
+2026-01-06 12:48:37,836 - INFO -   Read2 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r2/SRR12419623_Aligned.sortedByCoord.out_R2_sorted.bam
+2026-01-06 13:35:25,335 - INFO - Splitting completed.
+2026-01-06 13:35:25,493 - INFO - Splitting BAM files into R1 and R2...
+2026-01-06 13:35:25,493 - INFO - Splitting /orange/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/GSE155964/bams/SRR12419620_Aligned.sortedByCoord.out.bam into:
+2026-01-06 13:35:25,493 - INFO -   Read1 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r1/SRR12419620_Aligned.sortedByCoord.out_R1_sorted.bam
+2026-01-06 13:35:25,493 - INFO -   Read2 -> /blue/mingyi.xie/hkates/A001-snaR/aim-1/A-to-I-editing/lodei/snaR-A_output/tmp_paired/r2/SRR12419620_Aligned.sortedByCoord.out_R2_sorted.bam
